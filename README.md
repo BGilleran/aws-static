@@ -2,7 +2,7 @@
 
 In this project, I deployed a static website to AWS using S3, CloudFront, and IAM.
 
-The site can be accessed using the following link: http://darv00xn2o6q3.cloudfront.net/index.html
+The site can be accessed using the following <a href="http://darv00xn2o6q3.cloudfront.net/index.html">link</a>.
 
 The files included are: 
 
